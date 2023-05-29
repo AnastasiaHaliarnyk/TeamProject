@@ -1,0 +1,57 @@
+{
+  "catalog_items": [
+	{
+	  "id": 31,
+	  "short_name": "Ternopil-1",
+	  "name": "Kapustintsy Озеро кольору бірюзи.",
+	  "description": "!!!! Заборонено спускатися до ставу.!!!!!\n\nМожна сказати що це відвідини ставу з незвичайним кольором води.\n\nУтворився цей став з підводних джерел до яких докопались робітники.\n\nВїд Збаража можна йти пішки або автобусом до Капустинець.\nМИ підїхали авто близько до кар'єру за браком часу.\nПіднялися вгору для огляду. Незвичайний колір. Як на мене бірюза.\n\nІ як нечемні діти не втримались щоб не спуститися до підніжжя. І охоронець нас вигнав з шумом.\nПо причині зсуву Заборонено!!!! Тому не рекомендую. Насолоджуйтесь згори.",
+	  "distance": 0.50,
+	  "elavation": 49
+	},
+	{
+	  "id": 32,
+	  "short_name": "Ternopil-2",
+	  "name": "Ternopil Ruta alrededor de lago. Навколо озера.",
+	  "description": "Ternopil Ruta alrededor de lago. Навколо озера.",
+	  "distance": 5.44,
+	  "elavation": 190
+	},
+	{
+	  "id": 33,
+	  "short_name": "Ternopil-3",
+	  "name": "Проща до Зарваниці",
+	  "description": "Дводенна піша проща до Зарваниці за маршрутом: Тернопіль - Вел. Ходачків - Городище - Купчинці - Ішків - Золотники - Вишнівчик - Зарваниця - Вишнівчик - Золотники - Ішків - Купчинці - Городище -вел. Ходачків - Тернопіль (13-14 липня 2019 р.Б.).\nЧас у дорозі - 26 годин (з привалами включно).",
+	  "distance": 67.35,
+	  "elavation": 2664
+	},
+	{
+	  "id": 34,
+	  "short_name": "Ternopil-4",
+	  "name": "Ternopillya Zalishchyky 10km",
+	  "description": "Ternopillya Zalishchyky 10km",
+	  "distance": 7.07,
+	  "elavation": 427
+	},
+	{
+	  "id": 35,
+	  "short_name": "Ternopil-5",
+	  "name": "Sataniv -Lychkivci Trybuhivci",
+	  "description": "Sataniv -Lychkivci Trybuhivci",
+	  "distance": 19.94,
+	  "elavation": 719
+	},
+	{
+	  "id": 36,
+	  "short_name": "Ternopil-6",
+	  "name": "ernopil reg Basa otd'Nad strypoyu",
+	  "description": "ernopil reg Basa otd'Nad strypoyu",
+	  "distance": 5.06,
+	  "elavation": 873
+	}
+  ],
+  "category" : {
+	"name": "Ternopil",
+	"short_name": "Ternopil",
+	"notes": "Hiking in Ternopilska oblast."
+  }
+}

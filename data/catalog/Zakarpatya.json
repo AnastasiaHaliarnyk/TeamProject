@@ -1,0 +1,57 @@
+{
+  "catalog_items": [
+	{
+	  "id": 21,
+	  "short_name": "Zakarpatya-1",
+	  "name": "HORA PIKUYU - HIGHEST POINT",
+	  "description": "HORA PIKUYU - HIGHEST POINT - NH Nikolai Hervas 2021\n\nThis trekking is really easy and nice to be done!\n\nIt’s one of the Best things to do if you are in LVIV and like trekking! You can reach the summit in 3 hours! Really nice if you want to get to know the CARPATHIANS",
+	  "distance": 6.19,
+	  "elavation": 2598
+	},
+	{
+	  "id": 22,
+	  "short_name": "Zakarpatya-2",
+	  "name": "КАРПАТИ: Вучкове",
+	  "description": "4,2 денний (1-5 серпня 2019 р.) похід за маршрутом:\nс. Вучкове – с. Мерешор – полонина КРАСНА (верхи: Сигланський, Ружа, Ґропа, Климова) – с. Усть-Чорна – СВИДОВЕЦЬ (верхи: Стоги, Темпа, Унгаряска, Геришаска, оз. Ворожеска, Жандарми, Близниця велика, Близниця, Близниця мала, Переслуп) – м. Рахів.\n\nПохід у категорії \"СКЛАДНО\" - не легко було вкласти 100 км у лімітовані 4 на похід дні за нестабільної погоди.",
+	  "distance": 67.53,
+	  "elavation": 18990
+	},
+	{
+	  "id": 23,
+	  "short_name": "Zakarpatya-3",
+	  "name": "Hoverla",
+	  "description": "Second time for the last two days climbing Hoverla mountain.\nIt was awful weather, very strong wind and bad visibility.",
+	  "distance": 3.82,
+	  "elavation": 2205
+	},
+	{
+	  "id": 24,
+	  "short_name": "Zakarpatya-4",
+	  "name": "Expedition 'The Snow of Marmarosh' [spring]",
+	  "description": "The trip of geographical team \"Lviv Merydian\" to the highest top of ukrainian border - m. Pip Ivan (Maramarosh). Also this way to the top is biggest difference of altitude in all Ukraine. This difference notedly well in spring...",
+	  "distance": 11.16,
+	  "elavation": 5783
+	},
+	{
+	  "id": 25,
+	  "short_name": "Zakarpatya-5",
+	  "name": "Carpathians - Around Hoverla",
+	  "description": "A short winter hike (3.5 days) from the sport base Zarosliak to village Luhy around the highest mountain of Ukraine. Deep snow (snowshoes is a must), high altitude mist and nightly frosts, but the scenery is good. Better to start from Kozmeščyk tract, as the snow trail is much more beaten there.\nNote several huts along the route, which might help with shelter for the nights.",
+	  "distance": 11.79,
+	  "elavation": 3986
+	},
+	{
+	  "id": 26,
+	  "short_name": "Zakarpatya-6",
+	  "name": "Carpathians mountains - Ukraine - day 2",
+	  "description": "Thanks to Taras for organising this!\nhttps://www.instagram.com/tarasinf/\n\nPics were taken in the first week of August 2019",
+	  "distance": 6.86,
+	  "elavation": 2467
+	}
+  ],
+  "category" : {
+	"name": "Zakarpatya",
+	"short_name": "Zakarpatya",
+	"notes": "Hiking in Zakarpatska oblast."
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+	"id": 1,
+	  "name": "Ivano-Frankivsk",
+	  "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+	  "url": "data/catalog/Ivano-Frankivsk.json"
+  },
+  {
+	"id": 2,
+	"name": "Zakarpatya",
+	"notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?",
+	"url": "data/catalog/Zakarpatya.json"
+  },
+  {
+	"id": 3,
+	"name": "Ternopil",
+	"notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium.",
+	"url": "data/catalog/Ternopil.json"
+  },
+  {
+	"id": 4,
+	"name": "Kyiv",
+	"notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+	"url": "data/catalog/Kyiv.json"
+  },
+  {
+	"id": 5,
+	  "name": "Lviv",
+	  "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint.",
+	  "url": "data/catalog/Lviv.json"
+  }
+]

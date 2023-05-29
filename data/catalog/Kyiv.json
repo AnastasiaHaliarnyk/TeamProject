@@ -1,0 +1,57 @@
+{
+  "catalog_items": [
+	{
+	  "id": 41,
+	  "short_name": "Kyiv-1",
+	  "name": "Trujanoff Island",
+	  "description": "Trujanoff Island",
+	  "distance": 8.97,
+	  "elavation": 128
+	},
+	{
+	  "id": 42,
+	  "short_name": "Kyiv-2",
+	  "name": "Ukrayna/Kiev/Gece",
+	  "description": "Ukrayna/Kiev/Gece",
+	  "distance": 3.39,
+	  "elavation": 233
+	},
+	{
+	  "id": 43,
+	  "short_name": "Kyiv-3",
+	  "name": "Kijów",
+	  "description": "Kijów",
+	  "distance": 17.48,
+	  "elavation": 1876
+	},
+	{
+	  "id": 44,
+	  "short_name": "Kyiv-4",
+	  "name": "VIA REGIA",
+	  "description": "Los viajes por la VIA REGIA son experiencias Oeste-Este o Este-Oeste.\nLos viajes a lo largo de la VIA REGIA son viajes de descubrimiento en el espacio cultural \"Europa\".\nLos viajes por la VIA REGIA son viajes de placer y aventura desacelerados.\n\nLa VIA REGIA es originalmente una conexión de caminos de la era pre-ferroviaria. Existe desde hace más de 2.000 años y conecta 8 países europeos con una longitud de 4.500 km. En 2006 fue galardonada con el \"Itinerario Cultural del Consejo de Europa\" .\n\nEn épocas anteriores, la ruta estaba llena de albergues cada 30 km, la distancia de un día de viaje, donde los caballos podían ser desenganchados y los viajeros podían relajarse. Incluso hoy en día, se recomienda el principio de desaceleración cuando se viaja a lo largo de la VIA REGIA. Esta es la única forma en que podrá descubrir y explorar todos los hermosos paisajes, ciudades/lugares interesantes y puntos turísticos destacados que le brindan una visión emocionante de la historia y la cultura de Europa desde la costa atlántica en el oeste hasta Ucrania en el este. de Europa.\n\nMetrópolis de importancia europea como París , Fráncfort del Meno , Leipzig , Wrocław (Breslau), Cracovia (Cracovia), Львів (Lemberg ) o Київ (Kiev) se encuentran en esta ruta. Numerosas antiguas residencias traen tiempos pasados \u200B\u200Bcon magníficos castillos y extensos parques. Las ricas ciudades comerciales prometen una vida vibrante.",
+	  "distance": 1596.28,
+	  "elavation": 30755
+	},
+	{
+	  "id": 45,
+	  "short_name": "Kyiv-5",
+	  "name": "Bortnychi номер 2",
+	  "description": "Bortnychi номер 2",
+	  "distance": 7.54,
+	  "elavation": 115
+	},
+	{
+	  "id": 46,
+	  "short_name": "Kyiv-6",
+	  "name": "Пуща-Горенка",
+	  "description": "Пуща-Горенка",
+	  "distance": 14.22,
+	  "elavation": 505
+	}
+  ],
+  "category" : {
+	"name": "Kyiv",
+	"short_name": "Kyiv",
+	"notes": "Hiking in Kyivska oblast."
+  }
+}

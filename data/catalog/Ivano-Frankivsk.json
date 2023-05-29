@@ -1,0 +1,57 @@
+{
+  "catalog_items": [
+	{
+	  "id": 51,
+	  "short_name": "Ivano-Frankivsk-1",
+	  "name": "Ukraine: Carpathians hike",
+	  "description": "In Ukraine, in the Gorgany range of the Carpathian Mountains, there is a popular hike to the peak of Mt. Khomyak (1542 m / 5059 ft) starting from the road between Tatariv and Bukovel. This is an alternate route to Khomyak — more scenic and generally less steep, but longer. It ascends from Tatariv up a forest road, then climbs steeply but briefly to a ridgeline with views on both sides. It follows this ridge over Hreblya peak (1252 m / 4108 ft) then meets the main trail below the treeline on Khomyak. After summiting, you can descend on the main trail (south) as we did, descend on the north side of the mountain past the 15-meter Zhenetsky waterfall, or continue further west along the open ridgeline over Mt. Sinyak (1665 m / 5,463 ft) as far as Bukovel.",
+	  "distance": 8.34,
+	  "elavation": 2651
+	},
+	{
+	  "id": 52,
+	  "short_name": "Ivano-Frankivsk-2",
+	  "name": "Voronenka - Kukol - Vorokhta ",
+	  "description": "Trail from Voronenka railway station to Vorokhta railway station. We parked our car near hotel Oxamyt under the camera. We used local train which depart from Vorokhta at 06:48 a.m.\nStrongly recommend to get to Kukol from Voronenka. There are fantastic views during all uphill. Than after Kukol you`ll downhill through forest to Vorokhta.",
+	  "distance": 25.13,
+	  "elavation": 5413
+	},
+	{
+	  "id": 53,
+	  "short_name": "Ivano-Frankivsk-3",
+	  "name": "Kostrycha, Ukraine",
+	  "description": "I planned to go to the Kostrycha mountain range to see crocuses bloom, however, the weather changed my plans. All the week before my trip it was snowing in the region. So instead of an easy walk to mountain meadows, I had to sweat on my way to the summit in snowshoes. But the mountains are always beautiful, so I'm happy, that this trip succeeded.",
+	  "distance": 9.06,
+	  "elavation": 2149
+	},
+	{
+	  "id": 54,
+	  "short_name": "Ivano-Frankivsk-4",
+	  "name": "На гору Синяк (1665.2 м.)",
+	  "description": "Маршрут на одну ночівлю, але реально подолати його протягом одного дня - це буде трішки складніше. Також можна проходити частинами, наприклад тільки до полонини Хом‘яків і вершини Синяк або тільки до вершини Хом’як і повертати назад до с. Микуличин чи с. Татарів.\nМаршрут підходить для літнього сходження, якщо підніматися тільки на полонину Хом’яків можливе катання на велосипедах.",
+	  "distance": 24.95,
+	  "elavation": 4783
+	},
+	{
+	  "id": 55,
+	  "short_name": "Ivano-Frankivsk-5",
+	  "name": "На гору Маковиця (984.5 м.)",
+	  "description": "Одноденний кільцевий маршрут з с. Микуличин на гору Маковиця. Під час маршруту зустрічається гуцульська гойдалка, колоритні гуцульські домогосподарства (ур. Кісний) та дві гуцульські сироварні. Можна проходити частинами, наприклад тільки до полонини або тільки до гуцульської гойдалки і повертати назад до Микуличина.\nТрек записаний добре окрім відрізку між 9,71 км. та 10,63 км., де з невідомої причини програма записала раптовий спад і набір висоти якого немає - тому не зважайте на ці коливання на цьому проміжку та мандруючи маршрутом будьте спокійні.Маршрут підходить як для літнього так і зимового сходження, катання на квадроциклах та велосипедах.",
+	  "distance": 11.43,
+	  "elavation": 2306
+	},
+	{
+	  "id": 56,
+	  "short_name": "Ivano-Frankivsk-6",
+	  "name": "На гору Сісня (882.1 м.)",
+	  "description": "Одноденний кільцевий маршрут з с. Микуличин на гору Сісня та спуск у Мирисний.\nМаршрут підходить як для літнього так і зимового сходження.\n",
+	  "distance": 4.43,
+	  "elavation": 1096
+	}
+  ],
+  "category" : {
+	"name": "Ivano-Frankivsk",
+	"short_name": "Ivano-Frankivsk",
+	"notes": "Hiking in Ivano-Frankivsk oblast."
+  }
+}
